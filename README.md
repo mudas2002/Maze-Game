@@ -1,4 +1,4 @@
 # MazeGame
  
 Gameplay:
-https://github.com/mudas2002/MazeGame/assets/141341170/c7ddbfa6-20ea-41e2-ae3b-fafb0eec248e
+https://github.com/mudas2002/MazeGame/assets/141341170/eb6cc56f-2bee-4a4e-8d73-b8e72e668019
